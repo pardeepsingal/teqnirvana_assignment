@@ -20,3 +20,10 @@ Technical Lib and class details
 a) Convert inter-Galaxy currency array to respective roman numeral,while converting use saved inter-galaxy currency for conversion.
 b) Check if constructed roman numeral is valid.
 c) Convert that roman numeral to decimal number.
+
+
+I, II, III, IV, V, VI, VII, VIII, IX, X  (1-10)
+X, XX, XXX, XL, L, LX, LXX, LXXX, XC, C. (10-100)
+C, CC, CCC, CD, D, DC, DCC, DCCC, CM, M. (100 - 1000)
+Reference : https://en.wikipedia.org/wiki/Roman_numerals
+
