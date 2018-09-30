@@ -27,3 +27,6 @@ X, XX, XXX, XL, L, LX, LXX, LXXX, XC, C. (10-100)
 C, CC, CCC, CD, D, DC, DCC, DCCC, CM, M. (100 - 1000)
 Reference : https://en.wikipedia.org/wiki/Roman_numerals
 
+I placed before V or X indicates one less, so four is IV (one less than 5) and 9 is IX (one less than 10).
+X placed before L or C indicates ten less, so forty is XL (10 less than 50) and 90 is XC (ten less than a hundred).
+C placed before D or M indicates a hundred less, so four hundred is CD (a hundred less than five hundred) and nine hundred is CM (a hundred less than a thousand).
